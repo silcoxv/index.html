@@ -1,0 +1,35 @@
+<html>
+<head>
+  <title>Simple Valentine</title>
+</head>
+<body>
+
+<style>
+h1 {text-align: center;
+font-family: Times New Roman;
+Font-Size:100px;
+Color:White}
+h2 {text-align: center;
+font-family: Arial;
+Font-Size:70px;
+Color:Black}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
+
+<body style="background-color:#ffcccb;">
+<img src="http://www.lovethispic.com/uploaded_images/348572-Circle-Heart-Valentines-Day-Gif.gif"  width="200" height="200">
+
+<h1>HAPPY</h1>
+<h2>VALENTINE'S DAY</h2>
+
+<img src="https://lh3.googleusercontent.com/proxy/4FYFLQFU1VRdLnuWgQts7TQqKLTrt4tySe_jeSrZhaDp68VO41ywWbnM0go1oCUC76ojanT4NbJwjOVDDzHyfR3B"  width="200" height="200">
+
+
+
+</body>
+</html>
